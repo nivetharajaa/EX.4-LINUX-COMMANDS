@@ -254,7 +254,7 @@ Code:
 Output: 
 	Downloads file.zip from the specified URL.
 
-#RESULT:
+# RESULT:
 Thus basic UNIX commands are studied and executed.
 
 
